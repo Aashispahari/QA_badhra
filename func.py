@@ -1,24 +1,19 @@
-#python fuctions
 
-'''
-function is a block of code which is executed when it is called
-def function_name (parameters):
-    statement to be executed
+def addition(a, b):
+    addition = a + b
+    return addition
+    # print (f" addition is {addition}  ")
+
+def substraction(a,b):
+    product = a - b 
+    return product
+    # print (f" product is {product}  ")
     
-'''
-# def marks_students():
-#     print("congratulations you have passed the exam")
+   
 
-# marks_students()
 
-# def sum(a, b):
-#     result = a+b
-#     print (result)
 
-# sum(10,20)
 
-def sum(a, b):
-    result = a+b
-    return result
 
-print(sum(10,20 ))
+
+    
