@@ -1,0 +1,3 @@
+import classwork
+
+classwork.calcu()
